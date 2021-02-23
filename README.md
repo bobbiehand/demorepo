@@ -1,2 +1,2 @@
 # demorepo
-Some description here.
+Some description is here
